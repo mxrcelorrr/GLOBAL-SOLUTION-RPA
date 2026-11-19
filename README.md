@@ -12,10 +12,6 @@ Parte do projeto integrado **Zela: zeladoria urbana com IA**. O aplicativo do ci
 | Marcelo Augusto | 567176 |
 | Yuri Quirino | 568512 |
 
-## Vídeo de apresentação
-
-[Assista ao vídeo](COLE_AQUI_O_LINK_DO_VIDEO)
-
 ## O problema
 
 No aplicativo Zela, o cidadão descreve com as próprias palavras um problema de zeladoria (buraco, poste apagado, bueiro sem tampa). Mas o pedido não se resolve sozinho depois de registrado. Na prefeitura, alguém precisa:
